@@ -34,3 +34,11 @@ everybody
 3. Backlog refinemine
  - This occurs midway through the ongoing sprint
  - developers will come together and update their tasks, story points, time needed, etc. based on the trajectory of their task in the sprint thus far
+
+
+Differences between Epic, Story, Bug, and Task on Jira
+
+Epic - massive goal that will take a large number of sprints to complete and could take months - years to finish
+Task - General work that needs to get done (regular ticket in a professsional environment)
+Story - A feature or requirement written from the end user's point of view.
+Bug - An unexpected problem or error that needs to be fixed
