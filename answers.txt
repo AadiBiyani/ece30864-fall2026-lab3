@@ -1,0 +1,13 @@
+Pros and Cons of Agile Development 
+
+Pros - 
+
+1. High flexibility: users can update requirements, change priorities, and update goals very easily at the start of each cycle of a sprint
+2. Continuous quality: ensures continuous testing as development continues, which can help catch bugs and systematic issues at an early stage
+
+Cons - 
+
+1. Low predictability: hard to predict final outcome of project inclluding cost, resources needed, etc. as project evolves through sprints
+2. High Time commitment: it can take a long time to update each portion of a sprint, and daily meetings and constant collaboration demand a lot of energy and active participation from 
+everybody
+
