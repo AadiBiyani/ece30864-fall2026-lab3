@@ -12,4 +12,10 @@ Cons -
 everybody
 
  
- 
+ Responsibilities of Scrum Master vs Product Owner
+
+ The Product owner represents the voice of the customer and manages the direction of the product. This includes defining the vision, managing the backlog, 
+ representing the stakeholders, and accepting work. 
+
+ The Scrum master acts as the coach and facilitator for the team to ensure all goals are met. The scrum master's responsibilities includes removing
+ blockers, facilitating events and meetings, coaching the team, and protecting the process of the agile methodology, ensuring it is completed.
