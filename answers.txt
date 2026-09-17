@@ -19,3 +19,18 @@ everybody
 
  The Scrum master acts as the coach and facilitator for the team to ensure all goals are met. The scrum master's responsibilities includes removing
  blockers, facilitating events and meetings, coaching the team, and protecting the process of the agile methodology, ensuring it is completed.
+
+
+ 3 Types of Meetings during Spring Cycles 
+
+ 1. Sprint planning
+  - Team decides what work needs to get done by the end of the current sprint and how to move forward with their project
+  - Tickets are pulled from the backlog based on the team's capacity and speed of getting work done
+
+2. Daily Standup 
+ - Happens everyday the current sprint is running
+ - Developers will update each other on their progress and any blockers they are facing and how they can move forward and get their task done
+
+3. Backlog refinemine
+ - This occurs midway through the ongoing sprint
+ - developers will come together and update their tasks, story points, time needed, etc. based on the trajectory of their task in the sprint thus far
