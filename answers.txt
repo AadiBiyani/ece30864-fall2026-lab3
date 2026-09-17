@@ -11,3 +11,5 @@ Cons -
 2. High Time commitment: it can take a long time to update each portion of a sprint, and daily meetings and constant collaboration demand a lot of energy and active participation from 
 everybody
 
+ 
+ 
